@@ -1,0 +1,12 @@
+{
+    "mysql":{
+        "database":"consultoria",
+        "user":"root",
+        "password":"admin",
+        "host":"127.0.0.1"
+
+    },
+    "api":{
+        "porta":3000
+    }
+}
