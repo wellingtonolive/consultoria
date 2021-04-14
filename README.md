@@ -22,7 +22,7 @@ $ cd consultoria
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação 
 $ npm start
 
 # O servidor inciará na porta:3000 
